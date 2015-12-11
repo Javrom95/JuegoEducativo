@@ -1,0 +1,153 @@
+<resources>
+<string name="app_name">Juego</string>
+    <string name="maintext">Elige la asignatura:</string>
+    <string name="subject1">Biología.</string>
+    <string name="subject2">Geología.</string>
+    <string name="subject3">Matemáticas.</string>
+    <string name="subject4">Astrología.</string>
+
+    <string name="quiz">Pregunta</string>
+    <string name="correctans">Respuestas correctas:</string>
+    <string name="wrongans">Respuestas incorrectas:</string>
+
+  //Pregunta de biologia 1.
+    <string name="bioquiz1">¿Qué pulmón es más grande, el izquierdo o el derecho?</string>
+    <string name="bioans1.1">Ambos son de tamaño igual.</string>
+    <string name="bioans1.2">El derecho.</string>
+    <string name="bioans1.3">El izquierdo.</string>
+
+  //Pregunta de biología 2.
+    <string name="bioquiz2">Los nutrientes llegan a la sangre a través de las paredes del:</string>
+    <string name="bioans2.1">Intestino delgado.</string>
+    <string name="bioans2.2">Estómago.</string>
+    <string name="bioans2.3">Boca.</string>
+
+   // Pregunta de biología 3.
+    <string name="bioquiz3">Las glándulas salivales se encuantran en:</string>
+    <string name="bioans3.1">El esófago.</string>
+    <string name="bioans3.2">En el estómago.</string>
+    <string name="bioans3.3">En la boca.</string>
+
+   //Pregunta de biología 4.
+    <string name="bioquiz4">El intestino delgado mide:</string>
+    <string name="bioans4.1">20 metros aprox.</string>
+    <string name="bioans4.2">Ente 1 y 2 metros.</string>
+    <string name="bioans4.3">7 metros aprox.</string>
+
+   //Pregunta de biología 5.
+    <string name="bioquiz5">La saliva se usa para:</string>
+    <string name="bioans5.1">Ablandar los alimentos.</string>
+    <string name="bioans5.2">Descomponer los alimentos.</string>
+    <string name="bioans5.3">Digerir los alimentos.</string>
+
+   //Pregunta de biología 6.
+    <string name="bioquiz6">El hígado produce:</string>
+    <string name="bioans6.1">Jugo intestinal.</string>
+    <string name="bioans6.2">Jugo pancreático.</string>
+    <string name="bioans6.3">La bilis.</string>
+
+   //Pregunta de biología 7.
+    <string name="bioquiz7">El intestino grueso absorve:</string>
+    <string name="bioans7.1">El agua.</string>
+    <string name="bioans7.2">La sal.</string>
+    <string name="bioans7.3">El azúcar.</string>
+
+    //Preguntas de geoligía.
+
+    //Pregunta de geologia 1.
+    <string name="geoquiz1">¿Qué mineral es considerado como el más duro de los conocidos?</string>
+    <string name="geoans1.1">Diamante.</string>
+    <string name="geoans1.2">Cuarzo.</string>
+    <string name="geoans1.3">Pirita.</string>
+
+    //Pregunta de geología 2.
+    <string name="geoquiz2">¿Cual es el continente más pequeño?</string>
+    <string name="geoans2.1">Asia.</string>
+    <string name="geoans2.2">Europa.</string>
+    <string name="geoans2.3">Oceanía.</string>
+
+    // Pregunta de geología 3.
+    <string name="geoquiz3">¿Qué continente contiene el desierto más grande del mundo?</string>
+    <string name="geoans3.1">Asia.</string>
+    <string name="geoans3.2">África.</string>
+    <string name="geoans3.3">América.</string>
+
+    //Pregunta de geología 4.
+    <string name="geoquiz4">¿Cuál es el pais más grande del mundo?</string>
+    <string name="geoans4.1">Rusia.</string>
+    <string name="geoans4.2">Argentina.</string>
+    <string name="geoans4.3">Mónaco.</string>
+
+    //Pregunta de geología 5.
+    <string name="geoquiz5">¿Qué pais tiene el mayor número de volcanes activos?</string>
+    <string name="geoans5.1">Chile.</string>
+    <string name="geoans5.2">Indonesia.</string>
+    <string name="geoans5.3">Rusia.</string>
+
+    //Pregunta de geología 6.
+    <string name="geoquiz6">¿En qué pais está el volcán Eyjafjallajökull?</string>
+    <string name="geoans6.1">Indonesia.</string>
+    <string name="geoans6.2">Bosnia Herzegovina.</string>
+    <string name="geoans6.3">Islandia.</string>
+
+    //Pregunta de geología 7.
+    <string name="geoquiz7">¿Cómo se llamaba el super continente del cual surgieron los actuales?</string>
+    <string name="geoans7.1">Margulis.</string>
+    <string name="geoans7.2">Gondwanaland.</string>
+    <string name="geoans7.3">Pangea.</string>
+
+
+    //Preguntas de matemáticas.
+
+    //Pregunta de matemáticas 1.
+    <string name="mathquiz1">(17 + 39) / 4 :</string>
+    <string name="mathans1.1">14.</string>
+    <string name="mathans1.2">13.</string>
+    <string name="mathans1.3">17.</string>
+
+    //Pregunta de matemáticas 2.
+    <string name="mathquiz2">5073 - 468 :</string>
+    <string name="mathans2.1">4655.</string>
+    <string name="mathans2.2">4605.</string>
+    <string name="mathans2.3">4515.</string>
+
+    // Pregunta de matemáticas 3.
+    <string name="mathquiz3">(1/4) * (3/5):</string>
+    <string name="mathans3.1">1.</string>
+    <string name="mathans3.2">6/20.</string>
+    <string name="mathans3.3">6/40.</string>
+
+    //Pregunta de matemáticas 4.
+    <string name="mathquiz4">(1/5) / (3/2) :</string>
+    <string name="mathans4.1">2/16.</string>
+    <string name="mathans4.2">3/10.</string>
+    <string name="mathans4.3">2/15.</string>
+
+    //Pregunta de matemáticas 5.
+    <string name="mathquiz5">1/X + 1/2X :</string>
+    <string name="mathans5.1">1/(2X^2).</string>
+    <string name="mathans5.2">2/X.</string>
+    <string name="mathans5.3">3/2X.</string>
+
+    //Pregunta de matemáticas 6.
+    <string name="mathquiz6">La derivada de 1/X es:</string>
+    <string name="mathans6.1">-1/X.</string>
+    <string name="mathans6.2">-1/X^2.</string>
+    <string name="mathans6.3">Inf.</string>
+
+    //Pregunta de matemáticas 7.
+    <string name="mathquiz7">La integral de 1/X dx es:</string>
+    <string name="mathans7.1">Log(X) + C.</string>
+    <string name="mathans7.2">1/X + C.</string>
+    <string name="mathans7.3">Inf.</string>
+
+
+
+ //Strings de respuesta final.
+
+ <string name="result">Tu resultado es de:</string>
+ <string name="volver">¿Volver a jugar?</string>
+ <string name ="aprobado">Felicidades.</string>
+ <string name="suspenso">Lo siento.</string>
+ <string name="share">Compartir.</string>
+</resources>
